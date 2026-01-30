@@ -1,15 +1,13 @@
 <h1>👋🏽 Olá, eu sou o Davi!</h1>
 
-<h3> 
-  <strong>Técnico em Desenvolvimento de Sistemas e Desenvolvedor Backend</strong>
-</h3>
+<h3 align="center"><strong>Técnico em Desenvolvimento de Sistemas e Desenvolvedor Backend</strong></h3>
 
-<h3 align="center">Linguagens</h3>
+<h3>Linguagens</h3>
 
 - Java(Spring Framework)
 - Javascript(node.js, react.js e React Native)
 
-<h3 align="center">Tecnologias</h3>
+<h3>Tecnologias</h3>
 
 - HTML e CSS
 - Docker
@@ -18,7 +16,7 @@
 - Git e Github
 - Gemini AI
 
-<h3 align="center">Competências</h3>
+<h3>Competências</h3>
 
 - Desenvolvimento de APIs RESTful com Java e Spring
 - Sistema de autenticação e autorização com Spring Security e JWT
