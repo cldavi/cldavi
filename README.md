@@ -1,26 +1,37 @@
-<h1>👋🏽 Olá, meu nome é Davi!</h1><br>
+<h1>👋🏽 Olá, eu sou o Davi!</h1>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
+<h3> 
+  <strong>Técnico em Desenvolvimento de Sistemas e Desenvolvedor Backend</strong>
+</h3>
 
-<p align="left"> 
-  <strong>Técnico em Desenvolvimento de Sistemas/Desenvolvedor Backend</strong>.<br>
-</p>
+<h3 align="center">Linguagens</h3>
 
-<p align="left">
-  💡 Linguagens<br>
-  <strong>Java(Spring)</strong>, <strong>Javascript(React)</strong> e <strong>SQL(PostgreSQL)</strong>
-</p>
+- Java(Spring Framework)
+- Javascript(node.js, react.js e React Native)
 
-<p align="left">
-  💼 Ferramentas<br>
-  <strong>Postman</strong>, <strong>Docker</strong> e <strong>Google Gemini</strong>
-</p>
+<h3 align="center">Tecnologias</h3>
 
-<p align="left">
-  ⚠️ Se minhas habilidades e conhecimentos podem contribuir em algo, fale comigo.
-</p>
+- HTML e CSS
+- Docker
+- PostgreSQL(via Docker)
+- Postman
+- Git e Github
+- Gemini AI
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/cldavii/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-</p>
+<h3 align="center">Competências</h3>
+
+- Desenvolvimento de APIs RESTful com Java e Spring
+- Sistema de autenticação e autorização com Spring Security e JWT
+- Integração de backend e frontend com Cors
+
+> Se minhas habilidades e conhecimento puderem contribuir em algo que necessite, fale comigo
+
+E-mail
+```
+cldavifs@gmail.com
+```
+
+Linkedin
+```
+https://www.linkedin.com/in/cldavii/
+```
