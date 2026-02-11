@@ -20,8 +20,7 @@
 
 - Desenvolvimento de APIs RESTful com Java e Spring
 - Sistema de autenticação e autorização com Spring Security e JWT
-- Integração de backend e frontend com Cors
-- Conversão entre entidade e DTOs com Mapstruct
+- Integração entre back e frontend via cors filter
 
 > Se minhas habilidades e conhecimento puderem contribuir em algo que necessite, fale comigo
 
